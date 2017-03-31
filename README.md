@@ -2,7 +2,7 @@
 
 ==============================================================================
 
-<h2>This is implementation of Delanay triangulation for polygons based on the <i>Randomized search tree</i> and the <i>Braided search tree</i>.</h2>
+<h2>This is implementation of Delanay triangulation for polygons based on the <i>Randomized search tree</i> and the <i>Braided search tree data structures</i>.</h2>
 
 ==============================================================================
 
